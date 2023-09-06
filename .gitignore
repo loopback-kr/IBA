@@ -12,6 +12,7 @@ notebooks/imagenet
 notebooks/check_sha256sum.txt
 *.h5
 *.npz
+imagenet/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
